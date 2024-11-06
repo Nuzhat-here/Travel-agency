@@ -2,3 +2,5 @@ The Travel Blog and Website project aims to develop a comprehensive online platf
 
 Tech Stack: HTML5, CSS, JavaScript, PHP, MYSQL and XAMPP
 
+Get the detailed version: https://drive.google.com/file/d/1_5nalt0qjH0d32RRuZ1bY0taHpubVQM4/view?usp=sharing 
+
